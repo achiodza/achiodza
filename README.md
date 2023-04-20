@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 👋 Hi, I’m @ndiniBlackShifu
+- 👋 Hi, I’m @BlackShifu
 - 👀 I’m interested in Cybersecurity, Automation in QA, Python e.t.c
 - 🌱 I’m currently learning more on Open Source Intelligence Technology (OSINT) and the technologies associated with what l have mentioned above.
 - 💞️ I’m looking to collaborate on any Open Source projects to do with security, automation and quality assurance testing
